@@ -36,6 +36,6 @@ Matplotlib
 
 📁 **Files**
 
-Tuberculosis_cleaned dataset.ipynb: Jupyter Notebook containing the entire codebase for the project.
+📋 Tuberculosis_cleaned dataset.ipynb: Jupyter Notebook containing the entire codebase for the project.
 
-tuberculosis_xray_dataset.csv: Raw dataset from Kaggle.
+📋 tuberculosis_xray_dataset.csv: Raw dataset from **Kaggle**.
